@@ -10924,7 +10924,7 @@
       if ("object" === typeof window) return window;
     }
   })()),
-    (n.p = "/"),
+    (n.p = ""),
     (function () {
       "use strict";
       var e = n(791),
