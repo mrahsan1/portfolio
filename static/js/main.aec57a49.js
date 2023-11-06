@@ -11599,7 +11599,7 @@
                           }),
                           (0, a.jsx)(F, {
                             name: "ReactJs",
-                            level: "Intermediate",
+                            level: "Beginner",
                           }),
                           (0, a.jsx)(F, {
                             name: "Wordpress",
