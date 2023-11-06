@@ -340,10 +340,19 @@ nav .aTag.active {
 .portfolio__item-img {
   border-radius: 1.5rem;
   overflow: hidden;
+  display: block;
+  padding-top: 70%;
+  position: relative;
+  width: 100%;
 }
 .portfolio__item-img img {
-  height: 150px !important;
-  object-fit: contain;
+    height: 100%;
+    object-fit: cover;
+    width: 100%;
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
 }
 .portfolio__item h2 {
   margin: 1.2rem 0 2rem;
