@@ -11741,6 +11741,13 @@
             // githubLink: "https://github.com/SherazAlam",
             liveLink: "https://nicepriceproperties.com/",
           },
+           {
+            id: 4,
+            title: "Nice Price Properties",
+            img: n.p + "static/media/diamondcity.png",
+            // githubLink: "https://github.com/SherazAlam",
+            liveLink: "https://diamondcityre.com/",
+          },
         ];
       function $(e) {
         return (0, a.jsx)(
