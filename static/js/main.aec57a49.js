@@ -11739,7 +11739,7 @@
             title: "Nice Price Properties",
             img: n.p + "static/media/nicehouse.png",
             // githubLink: "https://github.com/SherazAlam",
-            liveLink: "http://timj18.sg-host.com/",
+            liveLink: "https://nicepriceproperties.com/",
           },
         ];
       function $(e) {
