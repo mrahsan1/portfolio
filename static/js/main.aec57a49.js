@@ -11743,7 +11743,7 @@
           },
            {
             id: 4,
-            title: "Nice Price Properties",
+            title: "Diamond City",
             img: n.p + "static/media/diamondcity.png",
             // githubLink: "https://github.com/SherazAlam",
             liveLink: "https://diamondcityre.com/",
