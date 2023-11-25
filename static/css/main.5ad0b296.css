@@ -219,7 +219,8 @@ nav .aTag.active {
   grid-gap: 2rem;
   display: grid;
   gap: 2rem;
-  grid-template-columns: 1fr;
+   grid-template-columns: repeat(2, 1fr);
+
 }
 .experience__container > div {
   background: var(--color-bg-variant);
