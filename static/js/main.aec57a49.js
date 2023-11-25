@@ -11748,6 +11748,13 @@
             // githubLink: "https://github.com/SherazAlam",
             liveLink: "https://diamondcityre.com/",
           },
+                     {
+            id: 5,
+            title: " Curis Staffing Academy",
+            img: n.p + "static/media/curisstaffingacademy.png",
+            // githubLink: "https://github.com/SherazAlam",
+            liveLink: "https://curisstaffingacademy.com/",
+          },
         ];
       function $(e) {
         return (0, a.jsx)(
