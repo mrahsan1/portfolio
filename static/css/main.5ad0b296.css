@@ -50,20 +50,6 @@ header {
   transform: scale(1);
   
 }
-@media (max-width: 767px{
-  .me > img {
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    padding: 0px 25px;
-  }
-}
-@media (max-width: 430px{
-    .me > img {
-    position: static;
-    padding: 0px 0px;
-    }
-}
 .scroll__down {
   bottom: 5rem;
   font-size: 0.9rem;
