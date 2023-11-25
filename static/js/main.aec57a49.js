@@ -11540,7 +11540,7 @@
                       }),
                       (0, a.jsx)("p", {
                         children:
-                          "I'm a front-end developer with a specialized skill set in WordPress. With 2 years of experience, I'm all about creating clean, user-friendly websites. I'm quick to pick up new skills, and I'm great at juggling multiple projects without missing a beat.",
+                          "As a versatile web developer, I specialize in both front-end and backend technologies with a focus on WordPress. With 2 years of experience, I'm all about creating clean, user-friendly websites. I'm quick to pick up new skills, and I'm great at juggling multiple projects without missing a beat.",
                       }),
                       (0, a.jsx)("a", {
                         href: "#contact",
