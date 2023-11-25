@@ -11598,7 +11598,7 @@
                             level: "Experienced",
                           }),
                           (0, a.jsx)(F, {
-                            name: "ReactJs",
+                            name: "Laravel",
                             level: "Beginner",
                           }),
                           (0, a.jsx)(F, {
