@@ -11743,7 +11743,7 @@
               id: 1,
               title: "Boost Franchise",
               img: n.p + "static/media/boost-franchine.png",
-              liveLink: "https://arkotechsoftware.com/dev/boost_franchising",
+              liveLink: "https://boostfranchising.com/",
             },
             {
               id: 2,
